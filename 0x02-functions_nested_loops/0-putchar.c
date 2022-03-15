@@ -10,6 +10,7 @@ int write(int filedes, const char *buf, unsigned int nbyte);
 /**
 * main - entry point
 *
+* Return: 0 success
 */
 int main(void)
 {
