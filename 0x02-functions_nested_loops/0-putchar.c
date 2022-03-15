@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * filedes
- * buf
+ * write
  * Return: Always 0 (Success)
  */
 int write(int filedes, const char *buf, unsigned int nbyte);
