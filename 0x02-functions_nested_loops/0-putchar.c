@@ -1,5 +1,5 @@
 #include <stdio.h>
- /** 
+ /**
  *write - function to print string
  * @filedes - file descriptor
  * @buf - pointer to array of character
@@ -9,8 +9,7 @@
 int write(int filedes, const char *buf, unsigned int nbyte);
 /**
 * main - entry point
-.
-.
+*
 */
 int main(void)
 {
